@@ -4,20 +4,11 @@ This is a collaborative research on Distributed Governance, DAOs, Smart Organiza
 
 This is a continuous effort with some milestones where we push the available state. Supported by contributors from [Dgov Foundation](https://dgov.foundation/), [DAO Incubator](https://daoincubator.org), [DAOstack](https://daostack.io/), [Aragon](https://aragon.org/), [DAO Leadership](https://daoleadership.com/), and many more.
 
-## **Content**
+## **Get the Full Report**
 
-* [Foreword](intro-foreword.md)
-* [What is Distributed Governance](what-is-distributed-governance.md)
-* [What is DAO](why-care-about-daos.md)
-* [DAO Use Cases](dao-use-cases.md)
-* [On-chain Governance Case Studies](layer-1-network-based-governance-case-studies/)
-  * [Tezos](layer-1-network-based-governance-case-studies/tezos.md)
-  * [EOS](layer-1-network-based-governance-case-studies/eos.md)
-  * [DASH](layer-1-network-based-governance-case-studies/dash.md)
-  * [Aragon Network](layer-1-network-based-governance-case-studies/aragon-network.md)
-  * [Genesis](layer-1-network-based-governance-case-studies/genesis.md)
-* [Taxonomy of On-chain Governance Tools](taxonomy.md)
-* [Further Reading](reading-list.md)
+{% embed url="https://dgov.gitbook.io/wiki/" %}
+
+
 
 ## Thanks
 

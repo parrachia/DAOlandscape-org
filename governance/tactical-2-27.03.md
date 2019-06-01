@@ -44,28 +44,23 @@ Ela: are we already in agreement of the outcome? Is it just an overview or a spe
 
 Grace: it’s in the 2nd sheet of Pedros. We identified 1\) knowledge for to-be-DAOs \(e.g. best practices on things like proposal making\), 2\) interoperability gaps.
 
-Decision: no objections  
-
+Decision: no objections
 
 Pedro: time sensitive DAO incubator with Dani
 
 Phoebe: how that helps?
 
-Pedro: the info he’ll put on slides will be used by us  
-
+Pedro: the info he’ll put on slides will be used by us
 
 Grace: Dani in NYC? Do we want him here
 
-Pedro: \(Berlin usually\) but couldn’t reach this one  
-
+Pedro: \(Berlin usually\) but couldn’t reach this one
 
 Phoebe: can we do async?
 
-Pedro: Yeap, who want to do that this week \(Grace\) – will continue async.  
+Pedro: Yeap, who want to do that this week \(Grace\) – will continue async.
 
-
-Pedro: Who’s interested in Genesis Alpha DAO? \(Grace, Andreas, Phoebe\)  
-
+Pedro: Who’s interested in Genesis Alpha DAO? \(Grace, Andreas, Phoebe\)
 
 ## Max / Create Coordinator \(editor\) role
 
@@ -87,8 +82,7 @@ Andreas: how we work is handy, Max is doing some, when we’re talking about the
 
 Grace: important to have this role, we don’t want to end up in the position when nothing happens
 
-Ela: agree  
-
+Ela: agree
 
 No objection – create.
 
@@ -98,8 +92,7 @@ Max: nominate Pedro
 
 Phoebe: nominate Max
 
-Grace: nominate Andreas  
-
+Grace: nominate Andreas
 
 Ela: how important is connection to Genesis.
 
@@ -109,11 +102,9 @@ Max: i can do, if Pedro can’t do it
 
 Andreas: how important is good english knowledge.
 
-Andreas: Phoebe or Ela – what it be good to have a fresh look?  
+Andreas: Phoebe or Ela – what it be good to have a fresh look?
 
-
-Decision: Pedro  
-
+Decision: Pedro
 
 ## Closing round
 
@@ -126,11 +117,9 @@ Decision: Pedro
 
 ### Pedro? / Discussion on current scope and its breakdown
 
-[Scope](https://docs.google.com/spreadsheets/d/1SAFyTSH-pwzI_qHEFRETCEM3S2d4b0ROBSFQtX4XVao/edit?usp=sharing)  
+[Scope](https://docs.google.com/spreadsheets/d/1SAFyTSH-pwzI_qHEFRETCEM3S2d4b0ROBSFQtX4XVao/edit?usp=sharing)
 
-
-[Breakdown](https://docs.google.com/spreadsheets/d/1SAFyTSH-pwzI_qHEFRETCEM3S2d4b0ROBSFQtX4XVao/edit?usp=sharing)  
-
+[Breakdown](https://docs.google.com/spreadsheets/d/1SAFyTSH-pwzI_qHEFRETCEM3S2d4b0ROBSFQtX4XVao/edit?usp=sharing)
 
 ### Pedro / Tools
 
@@ -142,14 +131,7 @@ Decision: Pedro
 
 [1st Proposal](https://docs.google.com/spreadsheets/d/1pQrfzQMafzrsXt66ZzJBTjm20qeLXoUFX51ptRywLm4/edit#gid=1194219037)
 
-[Preliminary preproposal  
-  
-](https://docs.google.com/document/d/1iw7BA5aIsjuHNxi9DeZyHtatLNPw5tYYrkfNARQmVK0/edit)  
-  
-  
-  
-  
-  
-  
+\[Preliminary preproposal
 
+\]\([https://docs.google.com/document/d/1iw7BA5aIsjuHNxi9DeZyHtatLNPw5tYYrkfNARQmVK0/edit](https://docs.google.com/document/d/1iw7BA5aIsjuHNxi9DeZyHtatLNPw5tYYrkfNARQmVK0/edit)\)
 

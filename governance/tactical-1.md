@@ -4,29 +4,27 @@ description: March 18th
 
 # Tactical \#1
 
-Industry Landscape 18.03.2019  
-
+Industry Landscape 18.03.2019
 
 ## Max / Intro  / Research Goals
 
-#### Grace / how we started that
+### Grace / how we started that
 
 Was researching it, Pedro was looking on that for longer, then Ela. Pat became interested from the other POV – let’s see what already done. My goal was search engine about all proposals in the dgov, DAO space. Maybe somebody on DASH did it \(and failed\). E.g. topics on identity, voting. Pat was interested in the spreadsheet of DAOs and what they use \(e.g. voting, legal model etc\). Good in org design and interviewing.
 
-#### Andreas
+### Andreas
 
 The experiment started in Berlin as an entrepreneur. Not a researcher as well, but done a lot of market analysis, that I did with mapping. Come from sharing economy, platform coops. Through Ela, started to work with rchain/dgov. Besides, that was researching 50-60 providers from the map, the goal was in identifying challenges and how to integrate them in the ecosystem. Would like to continue with that proposal. The only question is to what degree dgov~DAO are related. Dgov are the tools for organizing people, the step before DAO. You need some rules at the start. Maybe that’s one component of the research.
 
-#### Pedro
+### Pedro
 
 Feel the need to give some context. Now blockchain researcher in R&D / Applied research, part of Genesis DAO since inception. Worked with NGOs on multiple areas. Most interested in knowledge production – trying to help somehow another attempt in the research DAO \(Matan tried to launch\). It didn’t really happen, there were talks with EF and other entities about more agnostic initiative. That would be an amazing step to that. Invited Felipe. Remembered [https://viz.envisioning.io/democracy/?o=2](https://viz.envisioning.io/democracy/?o=2) – maybe a useful tool
 
-#### Felipe
+### Felipe
 
-Org consultant, as Phoebe, in Brazil. Very VUCA, Occupy movement veteran and other movements. Used to conflict. Am a painter and artists. Interested in creating cybernetics relations, what we create here is super linked. Have some drafts. Let’s imagine all info on blockchain was collected in the space form / orbits \(can send more info\). Would be very important to see knowledge, so other people can get the info in a visual way. Have beedn in Asia, coming back in 2 weeks, let’s hangout. Am DAO stack team comms & community. Finishing the book. Reading “Walkway” – blows my mind.  
+Org consultant, as Phoebe, in Brazil. Very VUCA, Occupy movement veteran and other movements. Used to conflict. Am a painter and artists. Interested in creating cybernetics relations, what we create here is super linked. Have some drafts. Let’s imagine all info on blockchain was collected in the space form / orbits \(can send more info\). Would be very important to see knowledge, so other people can get the info in a visual way. Have beedn in Asia, coming back in 2 weeks, let’s hangout. Am DAO stack team comms & community. Finishing the book. Reading “Walkway” – blows my mind.
 
-
-#### Max
+### Max
 
 Dgov, dao incubator. A book before the conference. Understanding what’s happening
 
@@ -58,11 +56,9 @@ The other is to look at us as an industry – what interoperability we need. It�
 
 Pedro: to simplify we can think in desired outcomes. One way is a “report” – simplify interaction. Show how things are going up until now. And we can consider how to make it dynamic, but that would be something accomplished. And then we can do a community extension.
 
-Felipe: support.  
+Felipe: support.
 
-
-Andreas: If all information for a map are centralised, you’re a bottleneck – it’s hard. On the other hand, collaborative maps are not easy to programm. I like the idea of the report limited by a date.  
-
+Andreas: If all information for a map are centralised, you’re a bottleneck – it’s hard. On the other hand, collaborative maps are not easy to programm. I like the idea of the report limited by a date.
 
 Pedro: yeah – as a stable version.
 
@@ -91,8 +87,5 @@ Pedro: we need to agree on decision-making mechanism, for roadmap etc. Regarding
 
 Felipe: -
 
-Max: fixed amount, editor/curator, further async comms in chat or loomio  
-
-
-
+Max: fixed amount, editor/curator, further async comms in chat or loomio
 
