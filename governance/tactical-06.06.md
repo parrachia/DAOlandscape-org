@@ -16,3 +16,7 @@ Sprint questions?
 
 Where's the sweet point?
 
+## Max / What do we want in terms of funding?
+
+
+
