@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](README.md)
+* [Product Specs](README.md)
 * [Governance](governance/README.md)
   * [Tactical \#1](governance/tactical-1.md)
   * [Tactical \#2](governance/tactical-2-27.03.md)
