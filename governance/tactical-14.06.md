@@ -34,11 +34,17 @@ Landscape Report 14.06
 * Can we build THE MAIN Body of Knowledge on the subject?
 * How can we engage more participation in doing it?
 
-Lightning Demos \(references\): find the examples from the other products or niches that are trying to solve challenges that look like ours.  
+## Ideation
 
+### Lightning Demos \(references\)
 
-* Mastering Ethereum
-* Awesome Template ...
+Find the examples from the other products or niches that are trying to solve challenges that look like ours.
+
+* Mastering Ethereum github book
+* Awesome Github Templates
+* TED Talks
+* Internet challenges \(nominations\)
+* Thematic Jobs Newsletter
 
 Homework: more references
 
