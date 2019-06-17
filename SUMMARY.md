@@ -8,5 +8,7 @@
   * [Tactical 24.04](governance/tactical-24.04.md)
   * [Tactical 08.05](governance/tactical-08.05.md)
   * [Tactical 06.06](governance/tactical-06.06.md)
+  * [Tactical 14.06](governance/tactical-14.06.md)
+  * [Tactical 19.06](governance/tactical-19.06.md)
 * [Plan](plan.md)
 
