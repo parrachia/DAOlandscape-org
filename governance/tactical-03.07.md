@@ -4,21 +4,13 @@
 
 Most interested in use cases rather going deeper in how systems work. A bit different from the existent proposal. Try to speak to Aragon, DAO Stack \(?\), Colony etc. Maybe we need to ask who's in DAOs right now \([Max list](https://ecosystem.daoincubator.org/wiki/dao)\).
 
-What should be the budget?
-
-Pedro: you can figure it out.
-
-Grace: would be of great value.
-
-Pedro: we can go for something more fair. 
-
-Grace: will submit on Mon/Tue.
-
-Felipe: was away a bit
-
-Max: looking to support
-
-Beth: 
+* Grace: What should be the budget?
+* Pedro: you can figure it out.
+* Grace: would be of great value.
+* Pedro: we can go for something more fair. 
+* Grace: will submit on Mon/Tue.
+* Felipe: was away a bit
+* Max: looking to support
 
 ### Max / Select the solution \(similar/different, dissect, recombine\)
 
@@ -48,5 +40,5 @@ Which days are you in town?
 * Phil is coming
 * Felipe: will be free before, my app is a giant workshop space, ready to offer that. have privacy etc. 
 
-Maybe make a shared calendar? Can send an invite \(do share\)
+Maybe make a shared calendar? Can send an invite \(do share\).
 
