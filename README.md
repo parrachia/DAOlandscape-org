@@ -9,7 +9,7 @@ Develop products for the network governance
 Network is a type of organization focused on connecting members for collaboration and opportunities exchange.
 
 1. Cooperatives \(electricity, data, hacktivists, DEX etc mostly digital\)
-2. Network Foundations \(Ethereum, internet, SSID\)
+2. Network Foundations \(Ethereum Foundation, Internet Foundation, Decentralized Identity Foundation\)
 3. Public Communities \(Neighborhood Projects, Fan Tournaments etc\)
 4. Consortia and Associations \([Ethereum Enterprise Alliance](https://entethalliance.org/)**,** Libra Network\)
 
@@ -60,8 +60,4 @@ Network is a type of organization focused on connecting members for collaboratio
 [**Aragon Nest & Flock**](https://github.com/aragon/nest) ****– Aragon Nest was launched to support projects building fundamental tools and infrastructure, largely around Aragon and Ethereum.
 
 [**Moloch**](https://molochdao.com/) – A community DAO focused on funding Ethereum development, in the name of Moloch the God of Coordination Failure
-
-### 
-
-
 
