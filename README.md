@@ -1,14 +1,30 @@
-# Product Specs
+# Strategy
 
-### TA / Need
+## Tasks
 
-For Blockchain Community – more/better awareness about dgov/dao development and what needs support.
+* Network Governance Research Group
+* Soft governance workshops
+* Help scholars, ask them to help us with wiki etc
+* Update the [Governance family tree](https://coinmetrics.io/papers/dissertation.pdf)
+* Partnership \(strategy sync\)
+  * RMIT
+  * Coop with Nathan Schneider / [MEDLabBoulder](https://twitter.com/MEDLabBoulder)
 
-As a DAO practitioner I am most interested in exploring the mechanics of DAOs and the "Constitutions" that set the boundaries of their operations. So perhaps some case studies / exploration of these different mechanisms would be interesting to add. – John Light, Aragon.
+### 
 
-### User journey
+Jun 2018 – Launch of [0.1](./)
 
-![](.gitbook/assets/image.png)
+## Upcoming
+
+* Glossary with words like commons, governance, egalitarian, plutocracy etc.
+* Ethereum, MakerDAO, Cardano, Grin, Bitcoin, Polkdadot, Cosmos, Decred, MolochDAO  governance case studies. Development on existent governance case studies though deeper analytics and interviews with network stakeholders.
+* Soft governance practices in blockchain organizations through interviews with HR/Facilitators and teams. Plus existent tools review like loomio or zoom rooms.
+* Investors in Governance, Investments in Governance
+* DAO use cases \(develop further\)
+* Geographical hubs: companies and events by city
+* Visualizations of different kinds
+
+### 
 
 
 
