@@ -1,9 +1,7 @@
 # Table of contents
 
 * [Strategy](README.md)
-* [Stakeholders](stakeholders.md)
-* [Products](products.md)
-* [Governance](governance.md)
+* [DAO Landscape Report](products.md)
 * [Tacticals](tacticals/README.md)
   * [Tactical \#1](tacticals/tactical-1.md)
   * [Tactical \#2](tacticals/tactical-2-27.03.md)
